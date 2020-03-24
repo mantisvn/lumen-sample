@@ -1,5 +1,5 @@
-# luma-sample
-Docker LAMP with Laravel/Luma. A simple API project
+# lumen-sample
+Docker LAMP with Laravel/Lumen. A simple API project
 
 # Docker Image LAMP Stack
 Customized repository from https://github.com/sprintcube/docker-compose-lamp
