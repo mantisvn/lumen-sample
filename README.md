@@ -2,7 +2,7 @@
 Docker LAMP with Laravel/Luma. A simple API project
 
 # Docker Image LAMP Stack
-Customize repository from https://github.com/sprintcube/docker-compose-lamp
+Customized repository from https://github.com/sprintcube/docker-compose-lamp
 
 Docker compose version 3
 PHP 7.4
