@@ -3,3 +3,7 @@ composer.phar
 
 # Mac DS_Store Files
 .DS_Store
+
+data/mysql
+logs/mysql
+logs/apache2
