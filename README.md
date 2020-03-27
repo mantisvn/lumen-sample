@@ -1,5 +1,5 @@
 # lumen-sample
-Docker LAMP with Laravel/Lumen. A simple API project
+Docker LAMP with Laravel/Lumen. A small project for learning
 
 # Install project
 - Run ./start.sh from root folder of project
