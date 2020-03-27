@@ -18,7 +18,7 @@ $router->get('/', function () use ($router) {
 $router->get('wagers', ['uses' => 'WagerController@index'
 ]);
 
-$router->post('wagers', ['uses' => 'WagerController@create'
+$router->post('wagers', ['uses' => 'WagerController@store'
 ]);
 
 $router->post('buy/{wager_id}', ['uses' => 'WagerController@buy'

@@ -1,10 +1,17 @@
 # lumen-sample
 Docker LAMP with Laravel/Lumen. A simple API project
 
-# Docker Image LAMP Stack
-Customized repository from https://github.com/sprintcube/docker-compose-lamp
+# Install project
+- Run start.sh from root folder of project
+- Vendor folder will be install by extracting vendor.tar.gz
+- The app access via http://localhost:8080 
 
-Docker compose version 3
-PHP 7.4
-MySQL 5.7
-Apache 2.4
+# Limitation
+- This app does not use any authenticate
+- Do not control rate limiting request
+
+# Simple UnitTest
+- Validate selling_price value 
+- Validate create wager
+- Create wager - Using same DB with app
+- List of wagers - Using same DB with app
