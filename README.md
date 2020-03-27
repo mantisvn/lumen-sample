@@ -2,7 +2,7 @@
 Docker LAMP with Laravel/Lumen. A simple API project
 
 # Install project
-- Run start.sh from root folder of project
+- Run ./start.sh from root folder of project
 - The app base URL: http://localhost:8080 
 
 # Limitation
